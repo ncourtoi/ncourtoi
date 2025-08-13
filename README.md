@@ -39,3 +39,29 @@
 
 <p align="left">👋 Hi! I’m a student at 42 School, currently exploring the world of programming. I’ve completed the common core curriculum and am passionate about learning new technologies and improving my coding skills.<br><br>💻 I enjoy working on projects related to [web development, algorithms, systems programming, etc.] and sharing my progress here on GitHub.<br><br>🚀 I’m always looking for opportunities to collaborate and build exciting projects while expanding my knowledge.</p>
 
+###
+
+# 📕 Projects 42:
+<div align="center">
+
+[![LIBFT](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/libfte.png)](https://github.com/)
+[![PRINTF](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/ft_printfe.png)](https://github.com/)
+[![GNL](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/get_next_linee.png)](https://github.com/)
+[![B2B](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/born2beroote.png)](https://github.com/)
+[![SOLONG](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/so_longe.png)](https://github.com/)
+[![MINITALK](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/minitalke.png)](https://github.com/)
+[![PUSH_SWAP](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/push_swape.png)](https://github.com/)
+[![PHILOSOPHERS](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/philosopherse.png)](https://github.com/)
+[![MINISHELL](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/minishelle.png)](https://github.com/)
+[![NETPRACTICE](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/netpracticee.png)](https://github.com/)
+[![CUB3D](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/cub3de.png)](https://github.com/)
+[![CPP](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/cppe.png)](https://github.com/)
+[![INCEPTION](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/inceptione.png)](https://github.com/)
+[![IRC](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/ft_irce.png)](https://github.com/)
+[![TRANSCENDANCE](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/ft_transcendencee.png)](https://github.com/)
+
+
+
+
+
+</div>
