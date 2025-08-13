@@ -39,12 +39,3 @@
 
 <p align="left">👋 Hi! I’m a student at 42 School, currently exploring the world of programming. I’ve completed the common core curriculum and am passionate about learning new technologies and improving my coding skills.<br><br>💻 I enjoy working on projects related to [web development, algorithms, systems programming, etc.] and sharing my progress here on GitHub.<br><br>🚀 I’m always looking for opportunities to collaborate and build exciting projects while expanding my knowledge.</p>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-</picture>
-
-###
