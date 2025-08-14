@@ -44,21 +44,21 @@
 # 📕 Projects 42:
 <div align="center">
 
-[![LIBFT](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/libfte.png)](https://github.com/)
-[![PRINTF](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/ft_printfe.png)](https://github.com/)
-[![GNL](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/get_next_linee.png)](https://github.com/)
-[![B2B](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/born2beroote.png)](https://github.com/)
-[![SOLONG](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/so_longe.png)](https://github.com/)
-[![MINITALK](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/minitalke.png)](https://github.com/)
-[![PUSH_SWAP](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/push_swape.png)](https://github.com/)
-[![PHILOSOPHERS](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/philosopherse.png)](https://github.com/)
-[![MINISHELL](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/minishelle.png)](https://github.com/)
-[![NETPRACTICE](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/netpracticee.png)](https://github.com/)
-[![CUB3D](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/cub3de.png)](https://github.com/)
-[![CPP](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/cppe.png)](https://github.com/)
-[![INCEPTION](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/inceptione.png)](https://github.com/)
-[![IRC](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/ft_irce.png)](https://github.com/)
-[![TRANSCENDANCE](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/ft_transcendencee.png)](https://github.com/)
+[![LIBFT](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/libfte.png)]([https://github.com/](https://github.com/ncourtoi/Libft))
+[![PRINTF](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/ft_printfe.png)](https://github.com/ncourtoi/ft_printf)
+[![GNL](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/get_next_linee.png)](https://github.com/ncourtoi/get_next_line)
+[![B2B](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/born2beroote.png)](https://github.com/ncourtoi/Born2beroot)
+[![SOLONG](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/so_longe.png)](https://github.com/ncourtoi/so_long)
+[![MINITALK](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/minitalke.png)](https://github.com/ncourtoi/minitalk)
+[![PUSH_SWAP](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/push_swape.png)](https://github.com/ncourtoi/push_swap)
+[![PHILOSOPHERS](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/philosopherse.png)](https://github.com/ncourtoi/Philosophers)
+[![MINISHELL](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/minishelle.png)](https://github.com/ncourtoi/minishell)
+[![NETPRACTICE](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/netpracticee.png)](https://github.com/ncourtoi/NetPractice)
+[![CUB3D](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/cub3de.png)](https://github.com/ncourtoi/Cub3d)
+[![CPP](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/cppe.png)](https://github.com/ncourtoi/CPP)
+[![INCEPTION](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/inceptione.png)](https://github.com/ncourtoi/Inception)
+[![IRC](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/ft_irce.png)](https://github.com/ncourtoi/ft_irc)
+[![TRANSCENDANCE](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/ft_transcendencee.png)](https://github.com/ncourtoi/ft_transcendence)
 
 
 
