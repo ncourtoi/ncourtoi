@@ -44,7 +44,7 @@
 # 📕 Projects 42:
 <div align="center">
 
-[![LIBFT](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/libfte.png)]([https://github.com/](https://github.com/ncourtoi/Libft))
+[![LIBFT](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/libfte.png)](https://github.com/ncourtoi/Libft)
 [![PRINTF](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/ft_printfe.png)](https://github.com/ncourtoi/ft_printf)
 [![GNL](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/get_next_linee.png)](https://github.com/ncourtoi/get_next_line)
 [![B2B](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/born2beroote.png)](https://github.com/ncourtoi/Born2beroot)
