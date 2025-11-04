@@ -57,7 +57,7 @@
 [![CUB3D](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/cub3de.png)](https://github.com/ncourtoi/Cub3d)
 [![CPP](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/cppe.png)](https://github.com/ncourtoi/CPP)
 [![INCEPTION](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/inceptione.png)](https://github.com/ncourtoi/Inception)
-[![IRC](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/ft_irce.png)](https://github.com/ncourtoi/ft_irc)
+[![IRC](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/ft_irce.png)](https://github.com/benaddihichame/IRC)
 [![TRANSCENDANCE](https://github.com/ncourtoi/ncourtoi/blob/main/42_badges/ft_transcendencee.png)](https://github.com/ncourtoi/ft_transcendence)
 
 
